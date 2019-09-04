@@ -1,0 +1,19 @@
+{
+  "name": "tefa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadFauzi03/TeFa.git"
+  },
+  "author": "ozi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadFauzi03/TeFa/issues"
+  },
+  "homepage": "https://github.com/AhmadFauzi03/TeFa#readme"
+}
